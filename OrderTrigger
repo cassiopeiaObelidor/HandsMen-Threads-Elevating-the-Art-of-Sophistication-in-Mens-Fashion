@@ -1,0 +1,8 @@
+// Order validation logic for HandsMen_Order__c records
+
+function orderTriggerHandler(records, context) {
+    if ((context.isBefore) && (context.isInsert || context.isUpdate)) {
+        OrderTriggerHandler.validateOrderQuantity(records);
+    }
+}
+
