@@ -34,7 +34,7 @@ HandsMen Threads wants to:
 
 🚀 Demo
 
-🎥 Watch the demo video: [Click to View Demo](https://drive.google.com/drive/folders/1k19FSA7Vy2GHfqLRFjpBsenbbMAf75GL)  
+🎥 Watch the demo video: [Click to View Demo](https://drive.google.com/file/d/1xEeP-hOedTyS4yW55T-AAavanYlM0A63/view?usp=sharing)  
 
 💻 GitHub Repository: [View on GitHub](https://github.com/cassiopeiaObelidor/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Mens-Fashion.git)
 
